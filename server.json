@@ -1,0 +1,7 @@
+{
+  "port": 7443,
+  "bind": "0.0.0.0",
+  "password": "EsZqx5oAHvBjCrm1WFtt",
+  "server_name": "DESKTOP-OPDBIO1",
+  "autostart": true
+}

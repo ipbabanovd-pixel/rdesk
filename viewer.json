@@ -1,0 +1,9 @@
+{
+  "server_host": "",
+  "server_port": 7443,
+  "password": "",
+  "remember": true,
+  "scale_name": "66 %",
+  "fps": "15",
+  "view_only": false
+}
